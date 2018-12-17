@@ -1,2 +1,2 @@
-# odekevdHurk.git.hub.io
+# odekevdHurk.github.io
 Mijn website
